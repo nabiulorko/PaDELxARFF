@@ -90,7 +90,7 @@ The generated file follows the standard Weka ARFF format like this:
 1,0,1,0,...,inactive
 ```
 
-> ✅ **881 PubChem fingerprint bits** are extracted per molecule and written as numeric attributes.
+> ✅ **881 PubChem fingerprint bits** are extracted per molecule & written as numeric attributes.
 
 ---
 
@@ -105,6 +105,6 @@ The generated file follows the standard Weka ARFF format like this:
 
 
 <div align="center">
-  <img src="assets/footer.png" alt="ARFFify Footer" width="100%" />
+  <img src="assets/footer.png" alt="PaDELXARFF Footer" width="100%" />
 </div>
 
