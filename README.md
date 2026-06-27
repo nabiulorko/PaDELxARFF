@@ -11,7 +11,6 @@
 ![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-0d1b2a?style=flat-square)
 
 </div>
-<img width="1162" height="172" alt="image" src="https://github.com/user-attachments/assets/e16f5e8c-8e4e-4b26-b485-61360bcfc09e" /><div align="center">
 
 ---
 
