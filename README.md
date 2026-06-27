@@ -9,9 +9,9 @@
 ![PaDEL](https://img.shields.io/badge/PaDEL--Descriptor-PubChem%20FP-1a73e8?style=flat-square)
 ![Weka](https://img.shields.io/badge/Weka-ARFF%20Ready-2e7d32?style=flat-square)
 ![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-0d1b2a?style=flat-square)
-</center>
-</div>
 
+</div>
+</center>
 ---
 
 ## 📖 Overview
