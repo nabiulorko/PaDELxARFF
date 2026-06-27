@@ -1,8 +1,8 @@
 <div align="center">
 
 <div align="center">
-  <img src="assets/logo.png" alt="ARFFify Logo" width="400" />
-  <p><strong>Generate PubChem fingerprints via PaDEL-Descriptor and export Weka-ready ARFF files</strong></p>
+  <img src="assets/logo.png" alt="PaDELXARFF Logo" width="400" />
+  <p><strong>A simple tool to generate PubChem fingerprints with PaDEL-Descriptor & create Weka-compatible ARFF files.</strong></p>
 </div>
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python&logoColor=white)
