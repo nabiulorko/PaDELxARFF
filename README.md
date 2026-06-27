@@ -17,7 +17,7 @@
 
 ## 📖 Overview
 
-**ARFFify** is a Streamlit web app that takes a bioactivity CSV file (containing molecule IDs, SMILES strings, and class labels), computes **PubChem fingerprints** using PaDEL-Descriptor, and packages everything into a `.arff` file ready for machine-learning workflows in **Weka**.
+**PaDELXARFF** is a Streamlit web app that takes a bioactivity CSV file (containing molecule IDs, SMILES strings, and class labels), computes **PubChem fingerprints** using PaDEL-Descriptor, and packages everything into a `.arff` file ready for machine-learning workflows in **Weka**.
 
 
 ---
@@ -77,7 +77,7 @@ The app will open in your browser at `http://localhost:8501`.
 The generated file follows the standard Weka ARFF format like this:
 
 ```
-@relation CDK5_pubchem
+@relation relation_name
 
 @attribute PubchemFP0 numeric
 @attribute PubchemFP1 numeric
