@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1162" height="172" alt="image" src="https://github.com/user-attachments/assets/e16f5e8c-8e4e-4b26-b485-61360bcfc09e" /><div align="center">
 
 <div align="center">
   <img src="assets/logo.png" alt="PaDELXARFF Logo" width="400" />
@@ -52,7 +52,7 @@ pip install streamlit pandas padelpy
 ### Run the app
 
 ```bash
-streamlit run ARFFify.py
+streamlit run PaDELxARFF.py
 ```
 
 The app will open in your browser at `http://localhost:8501`.
