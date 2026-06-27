@@ -1,17 +1,16 @@
-
 <div align="center">
   <img src="assets/logo.png" alt="PaDELXARFF Logo" width="400" />
-  <p><strong>A simple tool to generate PubChem fingerprints with PaDEL-Descriptor & create Weka-compatible ARFF files.</strong></p>
-</div>
-<center>
-![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![PaDEL](https://img.shields.io/badge/PaDEL--Descriptor-PubChem%20FP-1a73e8?style=flat-square)
-![Weka](https://img.shields.io/badge/Weka-ARFF%20Ready-2e7d32?style=flat-square)
-![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-0d1b2a?style=flat-square)
 
+  **A simple tool to generate PubChem fingerprints with PaDEL-Descriptor and create Weka-compatible ARFF files.**
+
+  <br><br>
+
+  ![Python](https://img.shields.io/badge/Python-3.8+-blue?style=flat-square&logo=python&logoColor=white)
+  ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+  ![PaDEL](https://img.shields.io/badge/PaDEL--Descriptor-PubChem%20FP-1a73e8?style=flat-square)
+  ![Weka](https://img.shields.io/badge/Weka-ARFF%20Ready-2e7d32?style=flat-square)
+  ![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-0d1b2a?style=flat-square)
 </div>
-</center>
 ---
 
 ## 📖 Overview
